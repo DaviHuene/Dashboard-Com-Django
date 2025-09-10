@@ -35,7 +35,7 @@ A interface é moderna, responsiva e inclui gráficos interativos.
 
 ## 📸 Preview
 
-<img width="730" height="752" alt="image" src="https://github.com/user-attachments/assets/71d1befa-475b-45f5-909a-4a5aaa4723bc" />
+<img width="1029" height="756" alt="image" src="https://github.com/user-attachments/assets/29c24e8e-5538-452f-9cc5-8f8a05b25b96" />
 
 
 ---
